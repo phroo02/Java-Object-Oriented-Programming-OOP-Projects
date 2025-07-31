@@ -47,7 +47,7 @@ These projects cover **core OOP concepts, collections, streams, persistence with
 
 ---
 
-### 6️⃣ Lab 6 – Social Network
+### 6️⃣ Lab 5 – Social Network
 - Developed a **social network application with persistence**:
   - User registration, friendships, groups, and posts  
   - Paginated retrieval of posts for users and their friends  
